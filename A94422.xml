@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To His Excellency Thomas Lord Fairfax: general of all the forces raised by the Parliament, for the Common Wealth of England. The humble representation of the desires of the officers and souldiers in the regiment of horse, for the county of Northumberland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94422</idno>
+            <idno type="STC">Wing T1360</idno>
+            <idno type="STC">Thomason E475_13</idno>
+            <idno type="STC">ESTC R203821</idno>
+            <idno type="EEBO-CITATION">99863627</idno>
+            <idno type="PROQUEST">99863627</idno>
+            <idno type="VID">162473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94422)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162473)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To His Excellency Thomas Lord Fairfax: general of all the forces raised by the Parliament, for the Common Wealth of England. The humble representation of the desires of the officers and souldiers in the regiment of horse, for the county of Northumberland.</title>
+                  <author>Wetwang, Joshua.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Joshua Wetwang [and 13 others].</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162473:1" rendition="simple:additions"/>
+            <p>To His EXCELLENCY <hi>Thomas</hi> Lord <hi>Fairfax:</hi> GENERAL of all the For<g ref="char:EOLhyphen"/>ces raiſed by the Parliament, for the Common Wealth of England.</p>
+            <p>The Humble Repreſentation of the Deſires of the Officers and Souldiers in the Regiment of Horſe, for the County of <hi>Northumberland.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed in the Year. 1648.</p>
+            <pb facs="tcp:162473:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162473:2"/>
+            <head>To his Excellency THOMAS LORD FAIRFAX General of all the Forces raiſed by the Parliament for the Common-wealth of England.</head>
+            <head type="sub">The humble Repreſentation of the Deſires of the Officers and Souldiers in the Regiment of Horſe for the County of Northumberland;</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the people of this Nation, both by Nature, and as they are Engliſhmen, are a Free-born Generation; but by con<g ref="char:EOLhyphen"/>queſt and captivity, under <hi>William</hi> the ſixt Duke of Noman<g ref="char:EOLhyphen"/>dies Baſtard, they were made ſlaves, the property of their Lands removed from the Brittiſh Natives, to the Norman In<g ref="char:EOLhyphen"/>vaders; the lands which were vouchſafed to their occupation, tranſlated from their own Free-Simples into ſtrange Tennours, by Knight, Homage, Villain, and other ſervices (to the conqueror and his Norman Earls, Lords, and Knights, which of his Commanders, he made in every County) their free cuſtoms abrogated, their Laws ſubverred, and ſhut up from the Eng<g ref="char:EOLhyphen"/>liſh underſtandings, into the French Tongue, and all Writs, Proceſſes, and Proceedings in Law, entred and iſſued forth in Latin, and the poor Commons (that were uſed to have all their ſuits ended in their ſeveral Hundreds once or twice a moneth) were forced then to trudge up to Lon<g ref="char:EOLhyphen"/>don from all parts of the Land, to the new made Norman courts; and none ſuffered in any Office, either in Church or Common-wealth, but thoſe Forraign Invaders. And to infatuate and bewitch the people with an ado<g ref="char:EOLhyphen"/>ration and ſacred Reverence of this Baſtards Perſon and his Succeſſion, his Clergy (the better to ſettle his crown) then preacht him up to be Gods Vicegerent, the Lords Anointed, aſcribing a certain Deity to his perſon, that in proceſs of time, the people (through ignorance) fell down and worſhipped the Baſtard and his Succeſſors, making the place of his uſual preſence as holy ground, to be reverenced even in his abſence; alſo preaching up the power the Baſtard had thus got over the land, to be the power of God, and he that did reſiſt, to reſiſt to his own damnation.</p>
+            <p>And then, utterly to prevent the Engliſh of all recovery and relief by their Parliaments in future, he created Lords by his Patent and Preroga<g ref="char:EOLhyphen"/>tive, to ſit by ſucceſſion in Parliament, as Repreſenters of his conqueſt and tyrannie over us, and not by election of the people, as Repreſenters and Patrons of the Common-wealth.</p>
+            <p>And to add unto this, to make his uſurpation firm and inviolable, he
+<pb n="2" facs="tcp:162473:3"/> ſubdued the Law-giving power of the free people of England in their Parliaments, to the Negative voice of Himſelf and Poſterity, and nothing to be had or held, neither Law, Land, or Liberty, but by Grace, by Roy<g ref="char:EOLhyphen"/>al Grant, or the like; as if our ſelves were naturally their born ſlaves, and nothing our own of Right. And under the yoke of this Norman capti<g ref="char:EOLhyphen"/>vity and villanage in every of the Premiſſes, with the moſt miſerable ef<g ref="char:EOLhyphen"/>fects and fruits thereof, we have bin held by that ſucceſſion, even to this Day.</p>
+            <p>And this King, to uphold the conſtitution and ſettlement of thoſe prin<g ref="char:EOLhyphen"/>ciples and forms of Tyrannie, and in them h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Dominion over us, brought a cruel and bloudy war upon the Nation; againſt whom, with your Ex<g ref="char:EOLhyphen"/>cellency, under the Authority of Parliament, we have freely engaged: to the end we might reſcue the Legiſlative powers of our Engliſh Parlia<g ref="char:EOLhyphen"/>ments, our free cuſtoms, and Native Rights, from the bondage of that captivity, and ſo free our ſelves and all the people, from the common op<g ref="char:EOLhyphen"/>preſſions of the Land, by a ſettlement of a juſt and equal Government of Right and Freedom. And now it hath pleaſed God to bleſs our Engage<g ref="char:EOLhyphen"/>ment with an happy conqueſt over the cap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tal enemy of the people, and to ſubdue him and his party under the power of the Parliament; we have e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pected that the Parliament (being fully enabled) ſhould ſet this Com<g ref="char:EOLhyphen"/>mon-wealth at Freedom, remove our Oppreſſions, and bring the capital Offenders and Deſtroyers of the People to juſtice, without reſpect of Perſons. But inſteed of this diſcharge of their Truſt, we find that they encreaſe and multiply our oppreſſions, countenance our enemies, reject and ſlight the juſt Directions and Petitions of the People for common Right and Freedom; Diſcourage, and ſomtime Impriſon, and otherwiſe perſe<g ref="char:EOLhyphen"/>cute the Promoters and Preſenters, and burn their Petitions by the hand of the common Hangman: (an Act ſo abhorred, as never to be forgotten!) and betake themſelves to a complyance and Treaty with our conquered enemy, courting his pleaſure, and allowing him a Negative Voyce in the paſting of all Acts of Parliament; whereby our Indempnity, our Laws, and Liberties, are all ſubjected to his conceſſion; his Will advanced above all Law, above the Parliament and People; and himſelf put out of the reach of Iuſtice, and made accompt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble to none.</p>
+            <p>Unto which yoke of Norman captivity (after all the bloud that hath bin ſpilt againſt it) we are loth to be ſubjected again, as we ſee both we and all the People muſt needs be, except the Army interpoſe betwixt the people and their deſtroyers, and make good their Engagement at New-Market-Heath, with all their Remonſtrances, Declarations, and Promiſes to the people</p>
+            <p>May it therefore pleaſe your Excellency, to take theſe premiſſes into your timous and ſerious thoughts, and before it be too late, to improve that opportunity of ſtrength and power which God hath now put into
+<pb n="3" facs="tcp:162473:3"/> your hands, for the relief and releaſe of this oppreſſed long captivated Nation; that both we and all the people may thereby be made ſafe and free: And in Order thereunto, we humbly crave leave to propoſe theſe our ſubſequent deſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res, in the behalf of our ſelves and the Common-wealth.</p>
+            <p n="1">1. That all Monopolies relating either to Sea or Land yet remaining, be forthwith aboliſhed.</p>
+            <p n="2">2. That the exaction of Tythes, and all manner of Impropriations, be removed; and that the publike Miniſtry be otherwiſe provided for.</p>
+            <p n="3">3. That Exciſe upon all In-land commodities be taken off, and that no Taxes or Ceſments be levied upon the People, but by the old way of Subſidies.</p>
+            <p n="4">4. That a ſufficient competency out of the Biſhops, Deans, and Chap<g ref="char:EOLhyphen"/>ters Lands, Kings Revenues, and Delinquents Eſtates, be ordered and ſet apart for the diſcharge of the whole Arrears of the Souldiery, and con<g ref="char:EOLhyphen"/>ſtant payment of the Army, whereby the people may be wholy eaſed of all free quarter and taxes for the Army, and the Souldiery alſo ſatisfied.</p>
+            <p n="5">5. That all Parliament-members, Committees, Exciſe-men, Sequeſtra<g ref="char:EOLhyphen"/>tors, &amp;c. be called to an impartial accompt for the monies of the State.</p>
+            <p n="6">6. That all incloſed Commons, and other ancient donations and rights belonging to the poor (in the ſeveral Counties and Pariſhes of the Land) be reſtored to their ancient and proper uſe, for the good of the comunalty.</p>
+            <p n="7">7. That the ancient Tenures of Lands in the county of Northumber<g ref="char:EOLhyphen"/>land, Cumberland, &amp;c. which have bin deſtroyed by ſeveral Earls and Lords of late times, to the undoing of the comunalty in thoſe parts, and utterly diſ-inabling them from all good Nurture in Learning or Trades, and forcing them from Generation to Generation, to be hinds, half hinds, quarter hinds, ſhepherds, and herdſmen, be now enquired into; and if no better, that the ancient right of the old rents (for the good of thoſe coun<g ref="char:EOLhyphen"/>ties and common-wealth) be reſtored again.</p>
+            <p n="8">8. That all deſtitute Widdows and poor Orphans, which have loſt their husbands and parents, and all Souldiers that have loſt their limbs in the ſervice of the Parliament againſt the King, be comfortably provided for, by way of conſtant ſtipend, and education of the children to Trades.</p>
+            <p n="9">9. That publike work-houſes be erected for prevention of beggars, vagabonds, and idle perſons.</p>
+            <p n="10">10. That till the time of more eaſie proviſion of payment for the Souldiery, that no monies for the Army be paid to the Parliament, their Committees, or Deputies; but to ſuch Treaſurers of the Army as your Excellency ſhall appoint, and to be collected by the Souldiery.</p>
+            <p n="11">11. That a trade of Fiſhing upon the Engliſh coaſts be ſetled by the State, for the good of the common-wealth.</p>
+            <p n="12">12. That the c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pital delinquents and incendiaries of the people be
+<pb n="4" facs="tcp:162473:4"/> brought to ſpeedy juſtice; and in the firſt place, that the King (inſteed of a Treaty) be brought to a fair tryal, to make anſwer for all the innocent bloud that hath bin ſpilt in the land, and for other things whereof he ſtands charged by the Parliaments own Declaration; which ſheweth the reaſons of making no farther Addreſs unto him.</p>
+            <p n="13">13. That the charge of the Army againſt the eleven impeached mem<g ref="char:EOLhyphen"/>bers be made good; and all the members that ſare in the Iuncto, when the Parliament fled to the Army for refuge, be expelled the Houſe.</p>
+            <p n="14">14. That encouragement and protection be given to ſuch as ſhall pro<g ref="char:EOLhyphen"/>ſecute any lawful charge or impeachment of treaſon, or other crime againſt any member in Parliament; and that the members in Parliament, with<g ref="char:EOLhyphen"/>out reſpect of perſons, be diſrobed of their protection, and left open and lyable to the Law.</p>
+            <p n="15">15. That Inquiſition be made after the bloud of colonel <hi>Rainsborough.</hi>
+            </p>
+            <p n="16">16. That all Iudges, and other miniſters of the State, be ſeverely in<g ref="char:EOLhyphen"/>terdicted from receiving any inditement or charge againſt any perſon, for any thing done in relation to the firſt or ſecond war againſt the King; and that all ſuch ſo impriſoned, be diſcharged; with reparations out of their proſecuters eſtates; and in caſe of in ability, the ſaid proſecuters to be anſwerably impriſoned.</p>
+            <p n="17">17. That a period be ſet to this Parliament.</p>
+            <p n="18">18. That an equal proportion throughout the ſeveral counties for the Repreſentatives in Parliament be aſſigned.</p>
+            <p n="19">19. That a conſtant ſucceſſion of Parliaments be ſetled, to be called and choſen of courſe by the people, at a fixed day every yeer, or two yeers, as ſhall be judged moſt ſafe and needful, and the ſame to end of courſe.</p>
+            <p n="20">20. That our Parliaments for the future be ſecured and cleered from the Negative Voice of any ſingle perſon or perſons whatſoever.</p>
+            <p n="21">21. That no man henceforth preſume to fit in this, or any other Parlia<g ref="char:EOLhyphen"/>ment, by patent or prerogative, or that is not elected by the free choiſe of the people.</p>
+            <p n="22">22. That all Statutes, Laws, and Acts of Parliament, be made and ru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely in the Name of the Commons of England aſſembled in Parliament.</p>
+            <p n="23">23. That no perſons whatſoever that are Law-makers, be Law-execu<g ref="char:EOLhyphen"/>tioners, but that a cleer diſtinction be preſerved and kept inviolable be<g ref="char:EOLhyphen"/>twixt theſe two principles and pillars of the Common-wealth for ever, that they be not confounded together in the ſame perſons, for fear of mine to the freedom of the people.</p>
+            <p n="24">24. That all Officers of the Common wealth be made to enjoy their places but at a certain limited time: at the expiration whereof themſelves to give an accompt of their Stewardſhip, and continue no longer in their places, except by a new election.</p>
+            <p n="25">25. That no Parliament Magiſtrate, or other perſon whatſoever have
+<pb n="5" facs="tcp:162473:4"/> power to make any compulſive Law, or execute any Mulct or puniſh<g ref="char:EOLhyphen"/>ment touching matters of Conſcience and Religion: but that all civil people ſubject to the Laws of the common wealth, though of ſeveral opi<g ref="char:EOLhyphen"/>nions and practices, (not being deſtructive to the State) be protected and ſaved from all violence and injury in good Name, perſon and eſtate.</p>
+            <p n="26">26. That all Warrants and Commitments by vertue of any pretended Priviledge or Prerogative, of during pleaſure, not ſhewing the particular fact or crime, be with the greateſt ſeverity intirdicted and declared void, for ever; with proviſion for future ſecuritie from ſuch Arbitrary violence upon the people. That all ſuch <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are ſo impriſoned be with Reparations releaſed; and that Lient. Col. <hi>Iohn Lilburn</hi> and many others that have long ſuffered in that nature by the Houſe of Lords, may have ample and full Reparations out of their Lordſhips Eſtates.</p>
+            <p n="27">27. That the cruelties and extortions of Goalers be ſeverely provided againſt; and that for future no Fees be exacted from priſoners; but that fitting accomodation both for lodging and dyet for them, and a ſufficient competency of livelyhood for Goalers at the publick coſt be provided.</p>
+            <p n="28">28. That no man be kept in priſon above a month; but in that ſpace to be brought to a tryal by a lawful Iury of his equals; or elſe to be diſcharged of courſe.</p>
+            <p n="29">29. That no man be impreſſed to ſerve in the Wars.</p>
+            <p n="30">30. That our Laws be few and plain, free from all ambiguous mean<g ref="char:EOLhyphen"/>ings, and all in the Engliſh Tongue; and to be digeſted and printed in a Vollume; and one to be provided to be kept in every Church through<g ref="char:EOLhyphen"/>out the land; and to be read over at ſeveral ſeaſons in open Congregation.</p>
+            <p n="31">31. That all perſons ſtand alike liable to the Laws of the Land, in all caſes, both criminal and civil: and that all protections by any pretended priviledge or prerogative whatſoever, be declared Void.</p>
+            <p n="32">32. That no more trudging up to Weſtminſter from all parts of the Land, for the tryal of ſuits of Law be had, but that (as of old) all ſuits both criminal and civil, be ended in the ſeveral Hundreds.</p>
+            <p n="33">33. That no perſon whatſoever, that hath Lorn Arms for, or aſſiſted the King, in his Rebellion againſt the Parliament and people; or that otherwiſe is found an enemy to this foundation of Iuſtice and Freedom, be neither choſen, nor have Voice in the choice of any Parliament Mem<g ref="char:EOLhyphen"/>bers, or other Officers, or Miniſters of State whatſoever.</p>
+            <p n="34">34. That a ſolemne Contract upon there and the like Principles of Common Right and Freedom be drawn betwixt the People and their Re<g ref="char:EOLhyphen"/>preſentors, to be unalterable for ever.</p>
+            <p n="35">35. That the reſpective Regiments of the Army (in order to their ſo<g ref="char:EOLhyphen"/>lemne Engagement made at New market Heath) do with all poſſible ex<g ref="char:EOLhyphen"/>pedition chuſe two (or more) Deputies or Truſtees (perſons of known approved fidelitie, for the freedom of the Common wealth,) and each
+<pb n="6" facs="tcp:162473:5"/> County alſo to do the like, joyntly to ſit, conſult and act in the behalf of themſelves, the people, and Army; and that the removal of our oppreſ<g ref="char:EOLhyphen"/>ſions, and obtainment of our Freedom, according to the premiſes above<g ref="char:EOLhyphen"/>ſaid, be the only work of their Agitation.</p>
+            <p n="36">36. That the ſaid Deputies or Truſtees be limitted in their Seſſion, to the ſpace of two months; at the expiration whereof their Seſſion to ter<g ref="char:EOLhyphen"/>minate; except continued by a new Election: and twelve daies before the ſaid Term be expired, a new choice ſucceſſively and of courſe, to be made till the accompliſhment of the Work; and that the former Depu<g ref="char:EOLhyphen"/>ties be made accountable to the ſucceeding.</p>
+            <p n="37">37. That this Councel be a free Councel, no Member thereof to be aw<g ref="char:EOLhyphen"/>ed or diſcountenanced in his Vote, by threats and frowns from any ſupe<g ref="char:EOLhyphen"/>rior Officer: and that no perſon whatſoever therein have a Negative Voice.</p>
+            <p n="38">38. That till the accompliſhment of this Work, in behalf of the Ar<g ref="char:EOLhyphen"/>my and People, that no disbanding of any part of the Souldiery be: ex<g ref="char:EOLhyphen"/>cept of perſons ill affected and diſſentors from this Expedition.</p>
+            <p>For theſe things we declare, and with our Swords in our hands, as we are Souldiers we challenge them as the price and purchaſe of our Blood, to live and dy for them againſt all oppoſers whatſoever: and as we are Engliſh men we do claim them as our own Inheritance and Birth-right: And humbly beg of your Excellency That you will be pleaſed to give us and the Souldiery encouragement therein, and ſo to appear before us, for the happy accompliſhment of theſe things: that both we and all the peo<g ref="char:EOLhyphen"/>ple, and the Generations that are yet unborn may have juſt cauſe to bleſſe God for your righteous conduct.</p>
+            <closer>
+               <signed>Signed in behalf of the Regiment.
+<list>
+                     <item>Joſhua Wetwang.</item>
+                     <item>Edw. Hawnby.</item>
+                     <item>Edward Leake.</item>
+                     <item>John Moores.</item>
+                     <item>John Grice.</item>
+                     <item>Francis Bartholmew.</item>
+                     <item>Edmund Badger.</item>
+                     <item>William Farrow.</item>
+                     <item>John Pain.</item>
+                     <item>Tho. Baxter.</item>
+                     <item>John Baynes.</item>
+                     <item>John Griffin.</item>
+                     <item>Richard Leake.</item>
+                     <item>John Hariſon.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
